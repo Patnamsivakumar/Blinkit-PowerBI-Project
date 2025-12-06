@@ -1,1 +1,1 @@
-# Blinkit-PowerBI-Project
+# Blinkit Grocery Data — Power BI Project
